@@ -14,7 +14,7 @@ This repository documents my practical learning journey in Statistics, with a pr
 ## Tools & Libraries
 
 - Python
-- Jupyter Notebook
+- Jupyter Notebook / Google Colab
 - NumPy
 - Pandas
 - SciPy
@@ -27,16 +27,13 @@ This repository documents my practical learning journey in Statistics, with a pr
 Statistics-for-DA-and-DS/
 │
 ├── 01_Descriptive_Statistics/
-│   └── Day_01_Introduction_to_Statistics.ipynb
+│   ├── Day_01_Introduction_to_Statistics.ipynb
+│   └── Day_02_Measures_of_Central_Tendency.ipynb
 │
 ├── 02_Probability/
-│
 ├── 03_Sampling_and_Inference/
-│
 ├── 04_Hypothesis_Testing/
-│
 ├── 05_Correlation_and_Regression/
-│
 ├── 06_Business_Statistics/
 │
 └── README.md
@@ -46,8 +43,8 @@ Statistics-for-DA-and-DS/
 
 | Day | Topic | Status |
 |---|---|---|
-| 01 | Introduction to Statistics and Data Types | Completed |
-| 02 | Measures of Central Tendency | Planned |
+| 01 | Introduction to Statistics and Data Types | ✔Completed |
+| 02 | Measures of Central Tendency | ✔Completed |
 | 03 | Measures of Dispersion | Planned |
 | 04 | Percentiles, Quartiles, IQR and Outlier Detection | Planned |
 | 05 | Skewness, Kurtosis and Data Distribution | Planned |
@@ -78,10 +75,25 @@ Topics covered:
 
 **Notebook:** `01_Descriptive_Statistics/Day_01_Introduction_to_Statistics.ipynb`
 
+## Day 02 – Measures of Central Tendency
+
+Topics covered:
+
+- Introduction to Measures of Central Tendency
+- Mean (Average)
+- Median (Middle Value)
+- Mode (Most Frequent Value)
+- Practical implementation using Pandas
+- Impact of Outliers on Mean and Median
+- Mode with Categorical Data
+- Business Applications and Interpretation
+
+**Notebook:** `01_Descriptive_Statistics/Day_02_Measures_of_Central_Tendency.ipynb`
+
 ## How to Use This Repository
 
 1. Open the Jupyter Notebook files on GitHub.
-2. Download the notebooks to run them locally.
+2. Download the notebooks or open them in Google Colab.
 3. Execute the code cells in sequence.
 4. Review the outputs and understand the observations.
 5. Attempt the practice tasks independently.
