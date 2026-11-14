@@ -1,4 +1,3 @@
-
 # Statistics for Data Analytics and Data Science
 
 This repository documents my practical learning journey in Statistics, with a primary focus on **Data Analytics** and a foundation for gradually progressing into **Data Science**.
@@ -11,15 +10,15 @@ This repository documents my practical learning journey in Statistics, with a pr
 - Develop business-oriented analytical thinking.
 - Prepare for Data Analyst and Data Science interviews.
 
-## Tools & Libraries
+## Tools & Technologies
 
 - Python
-- Jupyter Notebook / Google Colab
 - NumPy
 - Pandas
 - SciPy
 - Matplotlib
 - Seaborn
+- Google Colab
 
 ## Repository Structure
 
@@ -28,84 +27,86 @@ Statistics-for-DA-and-DS/
 │
 ├── 01_Descriptive_Statistics/
 │   ├── Day_01_Introduction_to_Statistics.ipynb
-│   └── Day_02_Measures_of_Central_Tendency.ipynb
+│   ├── Day_02_Measures_of_Central_Tendency.ipynb
+│   └── Day_03_Measures_of_Dispersion.ipynb
 │
 ├── 02_Probability/
+│
 ├── 03_Sampling_and_Inference/
+│
 ├── 04_Hypothesis_Testing/
+│
 ├── 05_Correlation_and_Regression/
+│
 ├── 06_Business_Statistics/
 │
 └── README.md
 ```
 
-## Learning Roadmap
+## 15-Day Learning Roadmap
 
-| Day | Topic | Status |
+| Day | Topics | Status |
 |---|---|---|
-| 01 | Introduction to Statistics and Data Types | ✔Completed |
-| 02 | Measures of Central Tendency | ✔Completed |
-| 03 | Measures of Dispersion | Planned |
-| 04 | Percentiles, Quartiles, IQR and Outlier Detection | Planned |
-| 05 | Skewness, Kurtosis and Data Distribution | Planned |
-| 06 | Basic Probability and Rules | Planned |
-| 07 | Conditional Probability, Bayes' Theorem and Random Variables | Planned |
-| 08 | Bernoulli, Binomial and Poisson Distributions | Planned |
-| 09 | Normal Distribution, Sampling and Sampling Techniques | Planned |
-| 10 | Sampling Distribution, CLT, Standard Error and Confidence Intervals | Planned |
-| 11 | Hypothesis Testing, Z-Test and T-Test | Planned |
-| 12 | Chi-Square Test, ANOVA and Statistical Errors | Planned |
-| 13 | Covariance, Correlation and Linear Regression | Planned |
-| 14 | A/B Testing and Business Statistics | Planned |
-| 15 | Real-World Case Study, Revision and Interview Practice | Planned |
+| Day 1 | Introduction to Statistics, Data Types & Measurement Scales | ✔Completed |
+| Day 2 | Measures of Central Tendency | ✔Completed |
+| Day 3 | Measures of Dispersion | ✔Completed |
+| Day 4 | Percentiles, Quartiles, IQR & Outlier Detection | Planned |
+| Day 5 | Skewness, Kurtosis & Data Distribution | Planned |
+| Day 6 | Basic Probability & Rules | Planned |
+| Day 7 | Conditional Probability, Bayes & Random Variables | Planned |
+| Day 8 | Bernoulli, Binomial & Poisson Distributions | Planned |
+| Day 9 | Normal Distribution, Sampling & Sampling Techniques | Planned |
+| Day 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | Planned |
+| Day 11 | Hypothesis Testing, Z-Test & T-Test | Planned |
+| Day 12 | Chi-Square, ANOVA & Statistical Errors | Planned |
+| Day 13 | Covariance, Correlation & Linear Regression | Planned |
+| Day 14 | A/B Testing & Business Statistics | Planned |
+| Day 15 | Real-World Case Study, Revision & Interview Practice | Planned |
 
-## Day 01 – Introduction to Statistics and Data Types
+## Topics Covered
 
-Topics covered:
+### Day 1 — Introduction to Statistics
 
 - Introduction to Statistics
-- Descriptive vs Inferential Statistics
-- Population vs Sample
-- Dataset creation using Pandas
-- Basic Dataset Inspection
-- Categorical vs Numerical Data
-- Discrete vs Continuous Data
-- Nominal, Ordinal, Interval and Ratio Scales
-- Basic Descriptive Analysis
+- Descriptive and Inferential Statistics
+- Population and Sample
+- Categorical and Numerical Data
+- Discrete and Continuous Data
+- Measurement Scales: Nominal, Ordinal, Interval and Ratio
+- Basic Data Exploration using Pandas
 
-**Notebook:** `01_Descriptive_Statistics/Day_01_Introduction_to_Statistics.ipynb`
+### Day 2 — Measures of Central Tendency
 
-## Day 02 – Measures of Central Tendency
-
-Topics covered:
-
-- Introduction to Measures of Central Tendency
-- Mean (Average)
-- Median (Middle Value)
-- Mode (Most Frequent Value)
-- Practical implementation using Pandas
+- Mean
+- Median
+- Mode
 - Impact of Outliers on Mean and Median
-- Mode with Categorical Data
-- Business Applications and Interpretation
+- Choosing the Appropriate Measure for Business Scenarios
 
-**Notebook:** `01_Descriptive_Statistics/Day_02_Measures_of_Central_Tendency.ipynb`
+### Day 3 — Measures of Dispersion
 
-## How to Use This Repository
+- Range
+- Variance
+- Standard Deviation
+- Mean Absolute Deviation (MAD)
+- Comparing Data Variability
+- Business Interpretation of Data Consistency
 
-1. Open the Jupyter Notebook files on GitHub.
-2. Download the notebooks or open them in Google Colab.
-3. Execute the code cells in sequence.
-4. Review the outputs and understand the observations.
-5. Attempt the practice tasks independently.
+## How to Use
+
+- Each day contains a practical Jupyter Notebook.
+- Notebooks include explanations, Python code, outputs and business interpretations.
+- Open the notebooks using Google Colab or Jupyter Notebook.
+- Practice the exercises to strengthen statistical understanding.
 
 ## Learning Approach
 
-This repository focuses on practical implementation, statistical interpretation, real-world examples, and business applications rather than theory alone.
+- Practical learning using Python.
+- Real-world business examples.
+- Statistical analysis and interpretation.
+- Interview-oriented preparation.
+- Gradual progression from foundational to advanced concepts.
 
 ## Career Goal
 
-Build practical statistical knowledge for entry-level Data Analyst roles and develop a strong foundation for future Data Science learning.
-
----
-
-*This repository is part of my continuous learning and professional development journey.*
+To build strong statistical and analytical skills for entry-level **Data Analyst** roles while developing a foundation for future growth in **Data Science**.
