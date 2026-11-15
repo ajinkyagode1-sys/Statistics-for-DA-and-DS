@@ -28,7 +28,8 @@ Statistics-for-DA-and-DS/
 ├── 01_Descriptive_Statistics/
 │   ├── Day_01_Introduction_to_Statistics.ipynb
 │   ├── Day_02_Measures_of_Central_Tendency.ipynb
-│   └── Day_03_Measures_of_Dispersion.ipynb
+│   ├── Day_03_Measures_of_Dispersion.ipynb
+│   └── Day_04_Percentiles_Quartiles_IQR_and_Outliers.ipynb
 │
 ├── 02_Probability/
 │
@@ -50,7 +51,7 @@ Statistics-for-DA-and-DS/
 | Day 1 | Introduction to Statistics, Data Types & Measurement Scales | ✔Completed |
 | Day 2 | Measures of Central Tendency | ✔Completed |
 | Day 3 | Measures of Dispersion | ✔Completed |
-| Day 4 | Percentiles, Quartiles, IQR & Outlier Detection | Planned |
+| Day 4 | Percentiles, Quartiles, IQR & Outlier Detection | ✔Completed |
 | Day 5 | Skewness, Kurtosis & Data Distribution | Planned |
 | Day 6 | Basic Probability & Rules | Planned |
 | Day 7 | Conditional Probability, Bayes & Random Variables | Planned |
@@ -91,6 +92,16 @@ Statistics-for-DA-and-DS/
 - Mean Absolute Deviation (MAD)
 - Comparing Data Variability
 - Business Interpretation of Data Consistency
+
+### Day 4 — Percentiles, Quartiles, IQR & Outlier Detection
+
+- Percentiles
+- Quartiles (Q1, Q2 and Q3)
+- Interquartile Range (IQR)
+- Outlier Detection using the IQR Method
+- Box Plot Visualization
+- Impact of Outliers on Mean and Median
+- Business Interpretation of Data Distribution
 
 ## How to Use
 
