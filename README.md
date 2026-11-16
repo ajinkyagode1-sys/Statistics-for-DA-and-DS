@@ -29,7 +29,8 @@ Statistics-for-DA-and-DS/
 │   ├── Day_01_Introduction_to_Statistics.ipynb
 │   ├── Day_02_Measures_of_Central_Tendency.ipynb
 │   ├── Day_03_Measures_of_Dispersion.ipynb
-│   └── Day_04_Percentiles_Quartiles_IQR_and_Outliers.ipynb
+│   ├── Day_04_Percentiles_Quartiles_IQR_and_Outliers.ipynb
+│   └── Day_05_Skewness_Kurtosis_and_Data_Distribution.ipynb
 │
 ├── 02_Probability/
 │
@@ -52,7 +53,7 @@ Statistics-for-DA-and-DS/
 | Day 2 | Measures of Central Tendency | ✔Completed |
 | Day 3 | Measures of Dispersion | ✔Completed |
 | Day 4 | Percentiles, Quartiles, IQR & Outlier Detection | ✔Completed |
-| Day 5 | Skewness, Kurtosis & Data Distribution | Planned |
+| Day 5 | Skewness, Kurtosis & Data Distribution | ✔Completed |
 | Day 6 | Basic Probability & Rules | Planned |
 | Day 7 | Conditional Probability, Bayes & Random Variables | Planned |
 | Day 8 | Bernoulli, Binomial & Poisson Distributions | Planned |
@@ -102,6 +103,19 @@ Statistics-for-DA-and-DS/
 - Box Plot Visualization
 - Impact of Outliers on Mean and Median
 - Business Interpretation of Data Distribution
+
+### Day 5 — Skewness, Kurtosis & Data Distribution
+
+- Introduction to Data Distribution
+- Symmetric Distribution
+- Positively Skewed Distribution
+- Negatively Skewed Distribution
+- Skewness Calculation using SciPy
+- Kurtosis and Excess Kurtosis
+- Leptokurtic, Mesokurtic and Platykurtic Distributions
+- Histogram Visualization
+- Mean and Median Comparison
+- Business Interpretation of Distribution Shape
 
 ## How to Use
 
