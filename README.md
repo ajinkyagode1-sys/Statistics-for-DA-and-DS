@@ -10,14 +10,14 @@ This repository documents my practical learning journey in Statistics, with a pr
 - Develop business-oriented analytical thinking.
 - Prepare for Data Analyst and Data Science interviews.
 
-## Tools & Technologies
+## Tools and Libraries
 
 - Python
 - NumPy
 - Pandas
-- SciPy
 - Matplotlib
 - Seaborn
+- SciPy
 - Google Colab
 
 ## Repository Structure
@@ -33,6 +33,7 @@ Statistics-for-DA-and-DS/
 │   └── Day_05_Skewness_Kurtosis_and_Data_Distribution.ipynb
 │
 ├── 02_Probability/
+│   └── Day_06_Basic_Probability_and_Rules.ipynb
 │
 ├── 03_Sampling_and_Inference/
 │
@@ -45,7 +46,7 @@ Statistics-for-DA-and-DS/
 └── README.md
 ```
 
-## 15-Day Learning Roadmap
+## Learning Roadmap
 
 | Day | Topics | Status |
 |---|---|---|
@@ -54,84 +55,60 @@ Statistics-for-DA-and-DS/
 | Day 3 | Measures of Dispersion | ✔Completed |
 | Day 4 | Percentiles, Quartiles, IQR & Outlier Detection | ✔Completed |
 | Day 5 | Skewness, Kurtosis & Data Distribution | ✔Completed |
-| Day 6 | Basic Probability & Rules | Planned |
-| Day 7 | Conditional Probability, Bayes & Random Variables | Planned |
+| Day 6 | Basic Probability & Probability Rules | ✔Completed |
+| Day 7 | Conditional Probability, Bayes' Theorem & Random Variables | Planned |
 | Day 8 | Bernoulli, Binomial & Poisson Distributions | Planned |
 | Day 9 | Normal Distribution, Sampling & Sampling Techniques | Planned |
 | Day 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | Planned |
 | Day 11 | Hypothesis Testing, Z-Test & T-Test | Planned |
-| Day 12 | Chi-Square, ANOVA & Statistical Errors | Planned |
+| Day 12 | Chi-Square Test, ANOVA & Statistical Errors | Planned |
 | Day 13 | Covariance, Correlation & Linear Regression | Planned |
 | Day 14 | A/B Testing & Business Statistics | Planned |
 | Day 15 | Real-World Case Study, Revision & Interview Practice | Planned |
 
 ## Topics Covered
 
-### Day 1 — Introduction to Statistics
+### 01. Descriptive Statistics
 
 - Introduction to Statistics
 - Descriptive and Inferential Statistics
 - Population and Sample
 - Categorical and Numerical Data
 - Discrete and Continuous Data
-- Measurement Scales: Nominal, Ordinal, Interval and Ratio
-- Basic Data Exploration using Pandas
-
-### Day 2 — Measures of Central Tendency
-
-- Mean
-- Median
-- Mode
-- Impact of Outliers on Mean and Median
-- Choosing the Appropriate Measure for Business Scenarios
-
-### Day 3 — Measures of Dispersion
-
-- Range
-- Variance
-- Standard Deviation
-- Mean Absolute Deviation (MAD)
-- Comparing Data Variability
-- Business Interpretation of Data Consistency
-
-### Day 4 — Percentiles, Quartiles, IQR & Outlier Detection
-
-- Percentiles
-- Quartiles (Q1, Q2 and Q3)
+- Measurement Scales
+- Mean, Median and Mode
+- Range, Variance and Standard Deviation
+- Mean Absolute Deviation
+- Percentiles and Quartiles
 - Interquartile Range (IQR)
-- Outlier Detection using the IQR Method
-- Box Plot Visualization
-- Impact of Outliers on Mean and Median
-- Business Interpretation of Data Distribution
+- Outlier Detection
+- Data Distribution
+- Skewness and Kurtosis
 
-### Day 5 — Skewness, Kurtosis & Data Distribution
+### 02. Probability
 
-- Introduction to Data Distribution
-- Symmetric Distribution
-- Positively Skewed Distribution
-- Negatively Skewed Distribution
-- Skewness Calculation using SciPy
-- Kurtosis and Excess Kurtosis
-- Leptokurtic, Mesokurtic and Platykurtic Distributions
-- Histogram Visualization
-- Mean and Median Comparison
-- Business Interpretation of Distribution Shape
-
-## How to Use
-
-- Each day contains a practical Jupyter Notebook.
-- Notebooks include explanations, Python code, outputs and business interpretations.
-- Open the notebooks using Google Colab or Jupyter Notebook.
-- Practice the exercises to strengthen statistical understanding.
+- Introduction to Probability
+- Experiments, Sample Spaces and Events
+- Theoretical and Experimental Probability
+- Complement Rule
+- Addition Rule
+- Mutually Exclusive and Non-Mutually Exclusive Events
+- Multiplication Rule for Independent Events
 
 ## Learning Approach
 
-- Practical learning using Python.
-- Real-world business examples.
-- Statistical analysis and interpretation.
-- Interview-oriented preparation.
-- Gradual progression from foundational to advanced concepts.
+This repository focuses on:
 
-## Career Goal
+- Practical Python implementation.
+- Statistical analysis using real-world examples.
+- Business-oriented applications.
+- Conceptual understanding.
+- Interview preparation and practice questions.
 
-To build strong statistical and analytical skills for entry-level **Data Analyst** roles while developing a foundation for future growth in **Data Science**.
+## Career Focus
+
+The primary goal is to develop strong statistical knowledge for **Data Analyst roles**, while gradually building a foundation for **Data Science and Machine Learning**.
+
+## Progress
+
+This repository is being updated topic by topic as I continue learning and practicing Statistics.
