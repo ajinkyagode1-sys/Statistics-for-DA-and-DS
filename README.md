@@ -33,7 +33,8 @@ Statistics-for-DA-and-DS/
 │   └── Day_05_Skewness_Kurtosis_and_Data_Distribution.ipynb
 │
 ├── 02_Probability/
-│   └── Day_06_Basic_Probability_and_Rules.ipynb
+│   ├── Day_06_Basic_Probability_and_Rules.ipynb
+│   └── Day_07_Conditional_Probability_Bayes_Theorem_and_Random_Variables.ipynb
 │
 ├── 03_Sampling_and_Inference/
 │
@@ -56,7 +57,7 @@ Statistics-for-DA-and-DS/
 | Day 4 | Percentiles, Quartiles, IQR & Outlier Detection | ✔Completed |
 | Day 5 | Skewness, Kurtosis & Data Distribution | ✔Completed |
 | Day 6 | Basic Probability & Probability Rules | ✔Completed |
-| Day 7 | Conditional Probability, Bayes' Theorem & Random Variables | Planned |
+| Day 7 | Conditional Probability, Bayes' Theorem & Random Variables | ✔Completed |
 | Day 8 | Bernoulli, Binomial & Poisson Distributions | Planned |
 | Day 9 | Normal Distribution, Sampling & Sampling Techniques | Planned |
 | Day 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | Planned |
@@ -94,6 +95,15 @@ Statistics-for-DA-and-DS/
 - Addition Rule
 - Mutually Exclusive and Non-Mutually Exclusive Events
 - Multiplication Rule for Independent Events
+- Conditional Probability
+- Dependent and Independent Events
+- Bayes' Theorem
+- Prior and Posterior Probability
+- Random Variables
+- Discrete and Continuous Random Variables
+- Probability Distribution
+- Expected Value
+- Variance and Standard Deviation of a Discrete Random Variable
 
 ## Learning Approach
 
