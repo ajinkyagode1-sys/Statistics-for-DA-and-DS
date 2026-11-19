@@ -34,7 +34,8 @@ Statistics-for-DA-and-DS/
 │
 ├── 02_Probability/
 │   ├── Day_06_Basic_Probability_and_Rules.ipynb
-│   └── Day_07_Conditional_Probability_Bayes_Theorem_and_Random_Variables.ipynb
+│   ├── Day_07_Conditional_Probability_Bayes_Theorem_and_Random_Variables.ipynb
+│   └── Day_08_Bernoulli_Binomial_and_Poisson_Distributions.ipynb
 │
 ├── 03_Sampling_and_Inference/
 │
@@ -58,7 +59,7 @@ Statistics-for-DA-and-DS/
 | Day 5 | Skewness, Kurtosis & Data Distribution | ✔Completed |
 | Day 6 | Basic Probability & Probability Rules | ✔Completed |
 | Day 7 | Conditional Probability, Bayes' Theorem & Random Variables | ✔Completed |
-| Day 8 | Bernoulli, Binomial & Poisson Distributions | Planned |
+| Day 8 | Bernoulli, Binomial & Poisson Distributions | ✔Completed |
 | Day 9 | Normal Distribution, Sampling & Sampling Techniques | Planned |
 | Day 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | Planned |
 | Day 11 | Hypothesis Testing, Z-Test & T-Test | Planned |
@@ -104,6 +105,12 @@ Statistics-for-DA-and-DS/
 - Probability Distribution
 - Expected Value
 - Variance and Standard Deviation of a Discrete Random Variable
+- Bernoulli Distribution
+- Binomial Distribution
+- Poisson Distribution
+- Probability Mass Function (PMF)
+- Cumulative Distribution Function (CDF)
+- Binomial and Poisson Approximation
 
 ## Learning Approach
 
