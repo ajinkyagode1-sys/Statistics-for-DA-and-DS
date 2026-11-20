@@ -1,16 +1,20 @@
-# Statistics for Data Analytics and Data Science
+# Statistics for Data Analytics & Data Science
 
-This repository documents my practical learning journey in Statistics, with a primary focus on **Data Analytics** and a foundation for gradually progressing into **Data Science**.
+A practical, Python-based learning repository covering Statistics concepts required for Data Analytics and Data Science.
+
+The repository focuses on understanding statistical concepts through Python implementation, data visualization, business applications, and interview preparation.
 
 ## Learning Objectives
 
-- Build strong statistical foundations.
-- Understand and analyze real-world datasets.
-- Apply statistical concepts using Python.
-- Develop business-oriented analytical thinking.
-- Prepare for Data Analyst and Data Science interviews.
+- Understand descriptive and inferential statistics.
+- Analyze data using statistical measures.
+- Apply probability concepts and distributions.
+- Understand sampling and statistical inference.
+- Perform hypothesis testing.
+- Analyze relationships between variables.
+- Apply statistics to real-world business problems.
 
-## Tools and Libraries
+## Tools & Libraries
 
 - Python
 - NumPy
@@ -35,14 +39,12 @@ Statistics-for-DA-and-DS/
 ├── 02_Probability/
 │   ├── Day_06_Basic_Probability_and_Rules.ipynb
 │   ├── Day_07_Conditional_Probability_Bayes_Theorem_and_Random_Variables.ipynb
-│   └── Day_08_Bernoulli_Binomial_and_Poisson_Distributions.ipynb
+│   ├── Day_08_Bernoulli_Binomial_and_Poisson_Distributions.ipynb
+│   └── Day_09_Normal_Distribution_and_Sampling.ipynb
 │
 ├── 03_Sampling_and_Inference/
-│
 ├── 04_Hypothesis_Testing/
-│
 ├── 05_Correlation_and_Regression/
-│
 ├── 06_Business_Statistics/
 │
 └── README.md
@@ -52,80 +54,85 @@ Statistics-for-DA-and-DS/
 
 | Day | Topics | Status |
 |---|---|---|
-| Day 1 | Introduction to Statistics, Data Types & Measurement Scales | ✔Completed |
-| Day 2 | Measures of Central Tendency | ✔Completed |
-| Day 3 | Measures of Dispersion | ✔Completed |
-| Day 4 | Percentiles, Quartiles, IQR & Outlier Detection | ✔Completed |
-| Day 5 | Skewness, Kurtosis & Data Distribution | ✔Completed |
-| Day 6 | Basic Probability & Probability Rules | ✔Completed |
-| Day 7 | Conditional Probability, Bayes' Theorem & Random Variables | ✔Completed |
-| Day 8 | Bernoulli, Binomial & Poisson Distributions | ✔Completed |
-| Day 9 | Normal Distribution, Sampling & Sampling Techniques | Planned |
-| Day 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | Planned |
-| Day 11 | Hypothesis Testing, Z-Test & T-Test | Planned |
-| Day 12 | Chi-Square Test, ANOVA & Statistical Errors | Planned |
-| Day 13 | Covariance, Correlation & Linear Regression | Planned |
-| Day 14 | A/B Testing & Business Statistics | Planned |
-| Day 15 | Real-World Case Study, Revision & Interview Practice | Planned |
+| 01 | Introduction to Statistics, Data Types & Measurement Scales | ✔Completed |
+| 02 | Measures of Central Tendency | ✔Completed |
+| 03 | Measures of Dispersion | ✔Completed |
+| 04 | Percentiles, Quartiles, IQR & Outlier Detection | ✔Completed |
+| 05 | Skewness, Kurtosis & Data Distribution | ✔Completed |
+| 06 | Basic Probability & Probability Rules | ✔Completed |
+| 07 | Conditional Probability, Bayes' Theorem & Random Variables | ✔Completed |
+| 08 | Bernoulli, Binomial & Poisson Distributions | ✔Completed |
+| 09 | Normal Distribution, Sampling & Sampling Techniques | ✔Completed |
+| 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | Planned |
+| 11 | Hypothesis Testing, Z-Test & T-Test | Planned |
+| 12 | Chi-Square Test, ANOVA & Statistical Errors | Planned |
+| 13 | Covariance, Correlation & Linear Regression | Planned |
+| 14 | A/B Testing & Business Statistics | Planned |
+| 15 | Real-World Case Study, Revision & Interview Practice | Planned |
 
 ## Topics Covered
 
-### 01. Descriptive Statistics
-
+### Descriptive Statistics
 - Introduction to Statistics
-- Descriptive and Inferential Statistics
-- Population and Sample
-- Categorical and Numerical Data
-- Discrete and Continuous Data
-- Measurement Scales
+- Types of Data and Measurement Scales
 - Mean, Median and Mode
 - Range, Variance and Standard Deviation
 - Mean Absolute Deviation
 - Percentiles and Quartiles
 - Interquartile Range (IQR)
 - Outlier Detection
-- Data Distribution
 - Skewness and Kurtosis
+- Data Distribution and Visualization
 
-### 02. Probability
-
-- Introduction to Probability
-- Experiments, Sample Spaces and Events
-- Theoretical and Experimental Probability
-- Complement Rule
-- Addition Rule
-- Mutually Exclusive and Non-Mutually Exclusive Events
-- Multiplication Rule for Independent Events
+### Probability
+- Basic Probability and Probability Rules
+- Complement, Addition and Multiplication Rules
 - Conditional Probability
-- Dependent and Independent Events
 - Bayes' Theorem
-- Prior and Posterior Probability
 - Random Variables
-- Discrete and Continuous Random Variables
-- Probability Distribution
-- Expected Value
-- Variance and Standard Deviation of a Discrete Random Variable
 - Bernoulli Distribution
 - Binomial Distribution
 - Poisson Distribution
-- Probability Mass Function (PMF)
-- Cumulative Distribution Function (CDF)
-- Binomial and Poisson Approximation
+- Normal Distribution
+- Z-Scores and Empirical Rule
+- Population and Sample
+- Sampling Techniques
+
+### Upcoming Topics
+- Sampling Distribution and Central Limit Theorem
+- Standard Error and Confidence Intervals
+- Hypothesis Testing
+- Z-Test, T-Test, Chi-Square Test and ANOVA
+- Correlation and Regression
+- A/B Testing
+- Business Statistics and Case Studies
+
+## Practical Applications
+
+Statistical concepts are practiced using business-oriented examples such as:
+
+- E-commerce customer purchasing behavior
+- Customer spending analysis
+- Banking and loan risk analysis
+- Marketing and customer segmentation
+- Retail sales and business performance
+- Delivery and operational analysis
 
 ## Learning Approach
 
-This repository focuses on:
+Each topic includes:
 
-- Practical Python implementation.
-- Statistical analysis using real-world examples.
-- Business-oriented applications.
-- Conceptual understanding.
-- Interview preparation and practice questions.
+- Simple explanations of statistical concepts
+- Practical Python implementation
+- Data analysis and visualization
+- Business applications
+- Interview questions and answers
+- Independent practice tasks
 
-## Career Focus
+## Goal
 
-The primary goal is to develop strong statistical knowledge for **Data Analyst roles**, while gradually building a foundation for **Data Science and Machine Learning**.
+To build a strong statistical foundation for entry-level Data Analyst roles and gradually develop the knowledge required for Data Science and Machine Learning.
 
-## Progress
+---
 
-This repository is being updated topic by topic as I continue learning and practicing Statistics.
+**Learning in Progress — One Concept at a Time.**
