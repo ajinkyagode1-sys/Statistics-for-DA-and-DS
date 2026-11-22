@@ -22,6 +22,7 @@ The repository focuses on understanding statistical concepts through Python impl
 - Matplotlib
 - Seaborn
 - SciPy
+- Statsmodels
 - Google Colab
 
 ## Repository Structure
@@ -46,6 +47,8 @@ Statistics-for-DA-and-DS/
 │   └── Day_10_Sampling_Distribution_CLT_SE_and_Confidence_Intervals.ipynb
 │
 ├── 04_Hypothesis_Testing/
+│   └── Day_11_Hypothesis_Testing_Z_Test_and_T_Test.ipynb
+│
 ├── 05_Correlation_and_Regression/
 ├── 06_Business_Statistics/
 │
@@ -66,7 +69,7 @@ Statistics-for-DA-and-DS/
 | 08 | Bernoulli, Binomial & Poisson Distributions | ✔Completed |
 | 09 | Normal Distribution, Sampling & Sampling Techniques | ✔Completed |
 | 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | ✔Completed |
-| 11 | Hypothesis Testing, Z-Test & T-Test | Planned |
+| 11 | Hypothesis Testing, Z-Test & T-Test | ✔Completed |
 | 12 | Chi-Square Test, ANOVA & Statistical Errors | Planned |
 | 13 | Covariance, Correlation & Linear Regression | Planned |
 | 14 | A/B Testing & Business Statistics | Planned |
@@ -107,10 +110,19 @@ Statistics-for-DA-and-DS/
 - Confidence Intervals
 - Confidence Levels and Margin of Error
 
-### 4. Upcoming Topics
-- Hypothesis Testing
-- Z-Test and T-Test
+### 4. Hypothesis Testing
+- Null and Alternative Hypotheses
+- Significance Level and P-Value
+- Type I and Type II Errors
+- Z-Test
+- One-Sample T-Test
+- Independent Two-Sample T-Test
+- Paired T-Test
+- Statistical Decision-Making
+
+### 5. Upcoming Topics
 - Chi-Square Test and ANOVA
+- Statistical Errors
 - Correlation and Regression
 - A/B Testing
 - Business Statistics and Case Studies
