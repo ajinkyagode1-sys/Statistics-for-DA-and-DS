@@ -47,7 +47,8 @@ Statistics-for-DA-and-DS/
 │   └── Day_10_Sampling_Distribution_CLT_SE_and_Confidence_Intervals.ipynb
 │
 ├── 04_Hypothesis_Testing/
-│   └── Day_11_Hypothesis_Testing_Z_Test_and_T_Test.ipynb
+│   ├── Day_11_Hypothesis_Testing_Z_Test_and_T_Test.ipynb
+│   └── Day_12_Chi_Square_ANOVA_and_Statistical_Errors.ipynb
 │
 ├── 05_Correlation_and_Regression/
 ├── 06_Business_Statistics/
@@ -70,7 +71,7 @@ Statistics-for-DA-and-DS/
 | 09 | Normal Distribution, Sampling & Sampling Techniques | ✔Completed |
 | 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | ✔Completed |
 | 11 | Hypothesis Testing, Z-Test & T-Test | ✔Completed |
-| 12 | Chi-Square Test, ANOVA & Statistical Errors | Planned |
+| 12 | Chi-Square Test, ANOVA & Statistical Errors | ✔Completed |
 | 13 | Covariance, Correlation & Linear Regression | Planned |
 | 14 | A/B Testing & Business Statistics | Planned |
 | 15 | Real-World Case Study, Revision & Interview Practice | Planned |
@@ -118,14 +119,21 @@ Statistics-for-DA-and-DS/
 - One-Sample T-Test
 - Independent Two-Sample T-Test
 - Paired T-Test
-- Statistical Decision-Making
+- Chi-Square Goodness of Fit Test
+- Chi-Square Test of Independence
+- One-Way ANOVA
+- Tukey's HSD Post-Hoc Test
+- Levene's Test
+- Statistical Power
+- Statistical vs Practical Significance
 
 ### 5. Upcoming Topics
-- Chi-Square Test and ANOVA
-- Statistical Errors
-- Correlation and Regression
+- Covariance and Correlation
+- Linear Regression
 - A/B Testing
-- Business Statistics and Case Studies
+- Business Statistics
+- Real-World Case Studies
+- Revision and Interview Practice
 
 ## Practical Applications
 
