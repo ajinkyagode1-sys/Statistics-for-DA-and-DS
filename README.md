@@ -23,6 +23,7 @@ The repository focuses on understanding statistical concepts through Python impl
 - Seaborn
 - SciPy
 - Statsmodels
+- Scikit-learn
 - Google Colab
 
 ## Repository Structure
@@ -51,6 +52,8 @@ Statistics-for-DA-and-DS/
 │   └── Day_12_Chi_Square_ANOVA_and_Statistical_Errors.ipynb
 │
 ├── 05_Correlation_and_Regression/
+│   └── Day_13_Covariance_Correlation_and_Linear_Regression.ipynb
+│
 ├── 06_Business_Statistics/
 │
 └── README.md
@@ -72,7 +75,7 @@ Statistics-for-DA-and-DS/
 | 10 | Sampling Distribution, CLT, Standard Error & Confidence Intervals | ✔Completed |
 | 11 | Hypothesis Testing, Z-Test & T-Test | ✔Completed |
 | 12 | Chi-Square Test, ANOVA & Statistical Errors | ✔Completed |
-| 13 | Covariance, Correlation & Linear Regression | Planned |
+| 13 | Covariance, Correlation & Linear Regression | ✔Completed |
 | 14 | A/B Testing & Business Statistics | Planned |
 | 15 | Real-World Case Study, Revision & Interview Practice | Planned |
 
@@ -127,9 +130,23 @@ Statistics-for-DA-and-DS/
 - Statistical Power
 - Statistical vs Practical Significance
 
-### 5. Upcoming Topics
-- Covariance and Correlation
-- Linear Regression
+### 5. Correlation and Regression
+- Covariance
+- Pearson Correlation
+- Spearman Rank Correlation
+- Positive, Negative and Zero Correlation
+- Correlation Matrix and Heatmap
+- Correlation vs Causation
+- Simple Linear Regression
+- Regression Intercept and Coefficient
+- Training and Testing Data
+- Regression Model Evaluation
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R-squared
+- Residual Analysis
+
+### 6. Upcoming Topics
 - A/B Testing
 - Business Statistics
 - Real-World Case Studies
@@ -145,6 +162,8 @@ Statistical concepts are practiced using business-oriented examples such as:
 - Marketing and customer segmentation
 - Retail sales and business performance
 - Delivery and operational analysis
+- Advertising spend and sales analysis
+- Business forecasting and prediction
 
 ## Learning Approach
 
