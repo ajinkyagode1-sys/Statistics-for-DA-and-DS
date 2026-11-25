@@ -13,6 +13,7 @@ The repository focuses on understanding statistical concepts through Python impl
 - Perform hypothesis testing.
 - Analyze relationships between variables.
 - Apply statistics to real-world business problems.
+- Use statistical methods to support business decisions.
 
 ## Tools & Libraries
 
@@ -55,6 +56,7 @@ Statistics-for-DA-and-DS/
 │   └── Day_13_Covariance_Correlation_and_Linear_Regression.ipynb
 │
 ├── 06_Business_Statistics/
+│   └── Day_14_AB_Testing_and_Business_Statistics.ipynb
 │
 └── README.md
 ```
@@ -76,7 +78,7 @@ Statistics-for-DA-and-DS/
 | 11 | Hypothesis Testing, Z-Test & T-Test | ✔Completed |
 | 12 | Chi-Square Test, ANOVA & Statistical Errors | ✔Completed |
 | 13 | Covariance, Correlation & Linear Regression | ✔Completed |
-| 14 | A/B Testing & Business Statistics | Planned |
+| 14 | A/B Testing & Business Statistics | ✔Completed |
 | 15 | Real-World Case Study, Revision & Interview Practice | Planned |
 
 ## Topics Covered
@@ -146,11 +148,29 @@ Statistics-for-DA-and-DS/
 - R-squared
 - Residual Analysis
 
-### 6. Upcoming Topics
-- A/B Testing
-- Business Statistics
-- Real-World Case Studies
-- Revision and Interview Practice
+### 6. Business Statistics
+- Business Statistics Fundamentals
+- Key Performance Indicators (KPIs)
+- Revenue and Average Order Value (AOV)
+- Customer Acquisition Cost (CAC)
+- Profit and Profit Margin
+- A/B Testing Fundamentals
+- Control and Treatment Groups
+- Conversion Rate Analysis
+- Absolute and Relative Lift
+- Two-Proportion Z-Test
+- Confidence Interval for Conversion Rate Difference
+- Revenue per User Analysis
+- Welch's Independent Two-Sample T-Test
+- Statistical vs Practical Significance
+- Experiment Design and Business Decision-Making
+- Guardrail Metrics
+
+### 7. Upcoming Topics
+- Real-World Statistical Case Study
+- Statistical Concepts Revision
+- Practical Data Analysis
+- Interview Preparation
 
 ## Practical Applications
 
@@ -163,7 +183,9 @@ Statistical concepts are practiced using business-oriented examples such as:
 - Retail sales and business performance
 - Delivery and operational analysis
 - Advertising spend and sales analysis
-- Business forecasting and prediction
+- Website conversion optimization
+- Marketing campaign comparison
+- Business decision-making through A/B testing
 
 ## Learning Approach
 
