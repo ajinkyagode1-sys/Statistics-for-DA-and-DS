@@ -13,7 +13,7 @@ The repository focuses on understanding statistical concepts through Python impl
 - Perform hypothesis testing.
 - Analyze relationships between variables.
 - Apply statistics to real-world business problems.
-- Use statistical methods to support business decisions.
+- Use statistical methods to support data-driven business decisions.
 
 ## Tools & Libraries
 
@@ -56,7 +56,8 @@ Statistics-for-DA-and-DS/
 │   └── Day_13_Covariance_Correlation_and_Linear_Regression.ipynb
 │
 ├── 06_Business_Statistics/
-│   └── Day_14_AB_Testing_and_Business_Statistics.ipynb
+│   ├── Day_14_AB_Testing_and_Business_Statistics.ipynb
+│   └── Day_15_Real_World_Case_Study_Revision_and_Interview_Practice.ipynb
 │
 └── README.md
 ```
@@ -79,7 +80,7 @@ Statistics-for-DA-and-DS/
 | 12 | Chi-Square Test, ANOVA & Statistical Errors | ✔Completed |
 | 13 | Covariance, Correlation & Linear Regression | ✔Completed |
 | 14 | A/B Testing & Business Statistics | ✔Completed |
-| 15 | Real-World Case Study, Revision & Interview Practice | Planned |
+| 15 | Real-World Case Study, Revision & Interview Practice | ✔Completed |
 
 ## Topics Covered
 
@@ -166,11 +167,20 @@ Statistics-for-DA-and-DS/
 - Experiment Design and Business Decision-Making
 - Guardrail Metrics
 
-### 7. Upcoming Topics
-- Real-World Statistical Case Study
-- Statistical Concepts Revision
-- Practical Data Analysis
-- Interview Preparation
+### 7. Real-World Case Study and Revision
+- E-commerce Customer Conversion Analysis
+- Customer-Level Data Analysis
+- Data Quality Checks
+- Business KPI Analysis
+- Customer Segmentation
+- Device and Age Group Analysis
+- Confidence Interval Calculation
+- A/B Testing and Hypothesis Testing
+- Revenue per Visitor Analysis
+- Correlation Analysis
+- Business Insights and Recommendations
+- Statistics Revision
+- Data Analyst Interview Preparation
 
 ## Practical Applications
 
@@ -185,6 +195,7 @@ Statistical concepts are practiced using business-oriented examples such as:
 - Advertising spend and sales analysis
 - Website conversion optimization
 - Marketing campaign comparison
+- Revenue and customer behavior analysis
 - Business decision-making through A/B testing
 
 ## Learning Approach
@@ -204,4 +215,4 @@ To build a strong statistical foundation for entry-level Data Analyst roles and 
 
 ---
 
-**Learning in Progress — One Concept at a Time.**
+**Statistics Learning Roadmap Completed — 15/15 Days.**
